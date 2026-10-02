@@ -1,4 +1,4 @@
-# Banking Intent Classification with Confidence-Based Routing
+# Confident or Defer: Banking Intent Classification with Confidence-Based Routing
 
 > Fine-tuning DistilBERT to route customer banking queries across 77 intents, and working out *when the model should answer and when it should hand off to a human*.
 
